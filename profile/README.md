@@ -1,12 +1,28 @@
-## Hi there 👋
+# Projet final du cours Microservices
 
-<!--
+Bienvenue sur l'organisation comportant tous les repo qui composent notre rendu final pour le projet de Micoservices.  
 
-**Here are some ideas to get you started:**
+Liste des membres du groupe 7 :  
+- Thomas L. (Orden14)
+- Nikola Z. (Mxlaser)
+- Clément S. (Dypkoys)
+- Quentin S.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Lancer le projet localement 
+
+#### 1. Cloner tous les repositories qui composent le projet
+```bash
+git clone https://github.com/EFREI-Microservices/StoreFront.git
+git clone https://github.com/EFREI-Microservices/BasketService.git
+git clone https://github.com/EFREI-Microservices/ProductService.git
+git clone https://github.com/EFREI-Microservices/UserService.git
+```
+
+#### 2. Suivre les indications dans le `README.md` de chaque repository afin de lancer toutes les parties du projet
+- [StoreFront](https://github.com/EFREI-Microservices/StoreFront)
+- [BasketService](https://github.com/EFREI-Microservices/BasketService)
+- [ProductService](https://github.com/EFREI-Microservices/ProductService)
+- [UserService](https://github.com/EFREI-Microservices/UserService)
+
+#### 3. Utiliser le projet
+Si vous avez bien suivi toutes les étapes pour chaque partie du projet, vous devriez pouvoir l'utiliser à l'adresse `http://localhost:8001`
