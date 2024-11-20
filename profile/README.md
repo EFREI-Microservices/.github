@@ -32,3 +32,5 @@ git clone https://github.com/EFREI-Microservices/UserService.git;
 
 #### 3. Utiliser le projet
 Si vous avez bien suivi toutes les étapes pour chaque partie du projet, vous devriez pouvoir l'utiliser le StoreFront à l'adresse `http://localhost:8000` et le Gateway à l'adresse `http://localhost:8001`
+
+Tous les endpoints disponibles et leurs spécificités sont précisés dans le `README.md` de chaque repository.
