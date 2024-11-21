@@ -8,7 +8,7 @@ Liste des membres du groupe 7 :
 - Clément S. (Dypkoys)
 - Quentin S.  
 
-PP : https://www.canva.com/design/DAGW6jsMuKM/cq3mYR8yIPxxGXE6T5xwoA/edit
+PP : [lien](https://www.canva.com/design/DAGW6jsMuKM/cq3mYR8yIPxxGXE6T5xwoA/edit)
 
 ## Lancer le projet localement 
 
