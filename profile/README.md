@@ -6,7 +6,9 @@ Liste des membres du groupe 7 :
 - Thomas L. (Orden14)
 - Nikola Z. (Mxlaser)
 - Clément S. (Dypkoys)
-- Quentin S.
+- Quentin S.  
+
+PP : https://www.canva.com/design/DAGW6jsMuKM/cq3mYR8yIPxxGXE6T5xwoA/edit
 
 ## Lancer le projet localement 
 
